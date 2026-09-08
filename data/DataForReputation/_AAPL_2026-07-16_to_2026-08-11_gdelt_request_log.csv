@@ -1,0 +1,5 @@
+window_start,window_end,records_returned,status,error
+2026-07-16,2026-07-22 23:59:59,250,success,
+2026-07-23,2026-07-29 23:59:59,250,success,
+2026-07-30,2026-08-05 23:59:59,0,failed,GDELT request failed.
+2026-08-06,2026-08-11 23:59:59,250,success,
